@@ -8,7 +8,7 @@ I am a Reinforcement Learning passionate, and enthusiastic to explore its applic
 
 ## Forex-data 
 
-A data layer that convolves usage of multiple data providers to have historical and realtime data of any forex ticker.
+A data layer that involves usage of multiple data providers to have historical and realtime data of any forex ticker.
 
 [Github repository](https://github.com/nikfio/forex-data)
 
