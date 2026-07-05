@@ -14,15 +14,16 @@ A data layer that involves usage of multiple data providers to have historical a
 
 ## LSTM on ASCII maps
 
-Application of an LSTM neural network to execute the path planning task on simplified virtual maps realized with ASCII characters.
-This work was developed during my master degree studies.
+Application of an LSTM neural network to execute the path planning task on simplified virtual maps realized with ASCII characters.  
+This work was developed during my master degree thesis.
 
 [Github repository](https://github.com/nikfio/LSTM_ASCII_maps)
 
 ## LSTM on iRobot Create 2
 
-Application of LSTM neural network as a path planner for mobile robots.
-In this project, the model was used on the iRobot Create 2.
+Application of LSTM neural network as a path planner for mobile robots.  
+In this project, the model was used on the iRobot Create 2.  
+This work was developed during my master degree thesis.  
 
 [Github repository](https://github.com/nikfio/LSTM_on_Create2)
 
@@ -40,5 +41,5 @@ In this project, the model was used on the iRobot Create 2.
 | **CI/CD** | Github Actions, CircleCI, Azure Pipelines | ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white) ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D4?style=flat&logo=azure-pipelines&logoColor=white) |
 | **DevOps Tools** | Github, Azure DevOps | ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azure-devops&logoColor=white) |
 | **Reinforcement Learning** | Stable-Baselines3, PyTorch | ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-38A2FF?style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **C++** | Systems programming and performance | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Matlab/Simulink** | Simulation and mathematical modeling | ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-ED1C24?style=flat&logo=mathworks&logoColor=white) |
+| **C and C++** | Embedded Systems programming | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Matlab/Simulink** | Simulation, control systems and mathematical modeling | ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-ED1C24?style=flat&logo=mathworks&logoColor=white) |
