@@ -10,7 +10,7 @@ I am a Reinforcement Learning passionate, and enthusiastic to explore its applic
 
 A data layer that involves usage of multiple data providers to have historical and realtime data of any forex ticker.
 
-[Github repository](https://github.com/nikfio/forex-data)
+[Github repository](https://github.com/nikfio/forex_data)
 
 ## LSTM on ASCII maps
 
@@ -40,6 +40,7 @@ This work was developed during my master degree thesis.
 | **Data Visualization** | Plotly, Dash | ![Plotly](https://img.shields.io/badge/Plotly-29B5E8?style=flat&logo=plotly&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-29B5E8?style=flat&logo=plotly&logoColor=white) |
 | **CI/CD** | Github Actions, CircleCI, Azure Pipelines | ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white) ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D4?style=flat&logo=azure-pipelines&logoColor=white) |
 | **DevOps Tools** | Github, Azure DevOps | ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azure-devops&logoColor=white) |
+| **Labview** | Real-time systems | ![Labview](https://img.shields.io/badge/Labview-2088FF?style=flat&logo=labview&logoColor=white) |
 | **Reinforcement Learning** | Stable-Baselines3, PyTorch | ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-38A2FF?style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
 | **C and C++** | Embedded Systems programming | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 | **Matlab/Simulink** | Simulation, control systems and mathematical modeling | ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-ED1C24?style=flat&logo=mathworks&logoColor=white) |
